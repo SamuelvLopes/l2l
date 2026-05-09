@@ -4,14 +4,14 @@
 
 Escreva o pronome pessoal em inglês correspondente.
 
-1. Eu → ________
-2. Ele → ________
-3. Ela → ________
-4. Nós → ________
-5. Eles/elas → ________
-6. Você / Vocês → ________
-7. Ele/ela para objeto → ________
-8. Tu → ________
+1. Eu → I
+2. Ele → He
+3. Ela → She
+4. Nós → We
+5. Eles/elas → They
+6. Você / Vocês → You
+7. Ele/ela para objeto → It
+8. Tu → You
 
 ---
 
@@ -19,43 +19,43 @@ Escreva o pronome pessoal em inglês correspondente.
 
 Escolha o pronome correto para cada caso.
 
-9. Maria is my friend. ________ is very kind.
+9. Maria is my friend. She is very kind.
    a) He
-   b) She
+   b) She <-
    c) It
 
-10. João is my brother. ________ is tall.
-    a) He
+10. João is my brother. He is tall.
+    a) He <-
     b) She
     c) They
 
-11. The dog is small. ________ is brown.
+11. The dog is small. He is brown.
     a) It
-    b) He
+    b) He <-
     c) We
 
-12. Ana and Carla are sisters. ________ are happy.
+12. Ana and Carla are sisters. They are happy.
     a) We
-    b) They
+    b) They <-
     c) She
 
-13. Pedro and I are students. ________ are in class.
-    a) We
+13. Pedro and I are students. We are in class.
+    a) We <-
     b) They
     c) He
 
-14. I am Samuel. ________ am a student.
+14. I am Samuel. I am a student.
     a) He
-    b) I
+    b) I <-
     c) You
 
-15. You and Lucas are friends. ________ are friends.
+15. You and Lucas are friends. You are friends.
     a) We
-    b) You
+    b) You <-
     c) It
 
-16. The car is new. ________ is black.
-    a) It
+16. The car is new. It is black.
+    a) It <-
     b) They
     c) She
 
@@ -65,23 +65,22 @@ Escolha o pronome correto para cada caso.
 
 Use: **I, you, he, she, it, we, they**
 
-17. ________ am happy.
-18. ________ is my mother.
-19. ________ are my friends.
-20. ________ is a book.
-21. ________ are at school.
-22. ________ are my teacher.
-23. ________ is my father.
-24. ________ are students.
-25. ________ am at home.
-26. ________ is my cat.
+17. I am happy.
+18. He is my mother.
+19. They are my friends.
+20. It is a book.
+21. We are at school.
+22. You are my teacher.
+23. He is my father.
+24. They are students.
+25. I am at home.
+26. It is my cat.
 
 ---
 
 ## Parte 4 – Substitua o nome pelo pronome correto
 
-27. **Paula** is my friend. → ________ is my friend.
-28. **The house** is big. → ________ is big.
-29. **My parents** are here. → ________ are here.
-30. **Lucas and I** are ready. → ________ are ready.
-
+27. **Paula** is my friend. → She is my friend.
+28. **The house** is big. → It is big.
+29. **My parents** are here. → They are here.
+30. **Lucas and I** are ready. → We are ready.
