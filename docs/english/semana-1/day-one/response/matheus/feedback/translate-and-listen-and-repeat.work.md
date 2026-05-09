@@ -1,122 +1,423 @@
+Seu material está muito bom para treino de tradução no contexto de trabalho.
+Você acertou bastante coisa, principalmente estrutura básica e vocabulário técnico.
 
-A ideia é esta:
-**leia em português → tente traduzir sozinho para o inglês → depois confira com o gpt em voz(listen)**.
---
-
-# 50 frases em PT-BR no contexto de trabalho
-
-## Com “eu”
-
-1. Eu preciso revisar esse controller hoje.
-2. Eu estou corrigindo um bug no sistema.
-3. Eu vou subir a alteração para homologação.
-4. Eu tenho uma reunião com a equipe pela manhã.
-5. Eu preciso validar essa regra de negócio.
-6. Eu atualizei a branch com a develop.
-7. Eu estou analisando os logs do servidor.
-8. Eu preciso testar esse endpoint novamente.
-
-## Com “você”
-
-9. Você pode revisar esse pull request?
-10. Você já validou o comportamento dessa tela?
-11. Você precisa atualizar a documentação da tarefa.
-12. Você encontrou o erro no deploy?
-13. Você consegue testar isso no ambiente de desenvolvimento?
-14. Você abriu o chamado para a infraestrutura?
-15. Você verificou se a API está respondendo corretamente?
-
-## Com “ele”
-
-16. Ele corrigiu o problema no middleware.
-17. Ele está responsável pela integração com o GLPi.
-18. Ele criou a migration da nova tabela.
-19. Ele revisou o código antes do merge.
-20. Ele encontrou a causa do erro em produção.
-21. Ele atualizou as permissões do módulo.
-22. Ele está ajustando a lógica do serviço.
-
-## Com “ela”
-
-23. Ela finalizou a interface do formulário.
-24. Ela está testando o fluxo de cadastro.
-25. Ela criou a validação no request.
-26. Ela encontrou inconsistências nos dados.
-27. Ela revisou os templates de e-mail.
-28. Ela ajustou os filtros da listagem.
-29. Ela documentou a regra de negócio corretamente.
-
-## Com “ele/ela” para objeto, sistema ou recurso
-
-30. O sistema está lento, mas ele continua funcionando.
-31. O servidor reiniciou e ele voltou ao normal.
-32. O chamado foi criado e ele já aparece na fila.
-33. O plugin está ativo e ele salvou os dados corretamente.
-34. A aplicação está no ar e ela responde bem.
-35. A branch está pronta e ela pode ser enviada para revisão.
-36. A tarefa está em andamento e ela deve ser concluída hoje.
-37. A API está instável, mas ela ainda responde em alguns casos.
-
-## Com “nós”
-
-38. Nós precisamos alinhar essa regra com o time.
-39. Nós vamos revisar esse fluxo amanhã.
-40. Nós estamos corrigindo os erros apontados no teste.
-41. Nós temos que validar esse comportamento em produção.
-42. Nós já concluímos a parte principal da demanda.
-43. Nós vamos documentar essa integração depois do deploy.
-44. Nós identificamos a origem do problema.
-
-## Com “eles/elas”
-
-45. Eles estão analisando o ambiente de staging.
-46. Eles validaram as permissões do módulo.
-47. Eles encontraram falhas no processo de autenticação.
-48. Eles já aprovaram a alteração no código.
-49. Elas revisaram as mensagens do sistema.
-50. Elas ajustaram as configurações do deploy.
+Agora vou agir como professor e corrigir os padrões mais importantes.
 
 ---
 
-# Como estudar isso do jeito certo
+# 1. Pontos positivos
 
-## 1. Objetivo claro
+Você já consegue:
 
-Depois deste bloco, você deve ser capaz de:
+- usar bem pronomes básicos;
+- montar frases no presente contínuo (`I'm fixing`);
+- usar vocabulário técnico real;
+- entender estrutura de trabalho em inglês;
+- usar modal `can`;
+- usar frases simples de forma compreensível.
 
-* reconhecer o pronome da frase;
-* escolher o equivalente em inglês;
-* montar frases simples no contexto do trabalho.
+Isso é um ótimo sinal.
 
-## 2. Prática recomendada
+---
 
-Pegue 10 frases por vez e faça assim:
+# 2. Principais padrões de erro
 
-* identifique o pronome;
-* tente traduzir sem olhar;
-*  fale em voz alta em chamada com o gpt peça para ele repetir (esculta);
-* depois corrija.
+Os erros mais frequentes foram:
 
-Exemplo:
+1. uso errado de tempos verbais;
+2. uso excessivo de `"he's/she's/they're"` para passado;
+3. verbos irregulares (`find → found`, `write → wrote`);
+4. confusão entre:
+   - presente contínuo;
+   - presente perfeito;
+   - passado simples.
 
-* **Eu preciso revisar esse controller hoje.**
-* pronome: **eu**
-* em inglês começa com: **I**
+5. uso de `he/she` para objetos e sistemas (deveria ser `it`);
+6. algumas palavras pouco naturais:
+   - flux → flow
+   - homolog → staging/testing environment
+   - revision → review
+   - demand → task/request
 
-## 3. Recordação ativa
+---
 
-Sem olhar, tente responder:
+# 3. Correções mais importantes
 
-* como se diz **nós**?
-* como se diz **eles**?
-* quando usar **he** e **she**?
-* quando usar **it** para sistema, API, tarefa ou objeto?
+---
 
-## 4. Próximo passo
+## Frase 4
 
-Depois dessas frases, o ideal é fazer:
+Frase original:
+Eu tenho uma reunião com a equipe pela manhã.
 
-* tradução para o inglês;
-* correção;
-* repetição apenas das erradas.
+Resposta do aluno:
+I need a call with the team in the morning
 
+Forma correta:
+I have a meeting with the team in the morning.
+
+Feedback do professor:
+A frase ficou compreensível, mas mudou o sentido.
+
+- “tenho uma reunião” → `I have a meeting`
+- “need a call” = “preciso de uma ligação”
+
+Além disso:
+
+- reunião → `meeting`
+- ligação/chamada → `call`
+
+---
+
+## Frase 10
+
+Frase original:
+Você já validou o comportamento dessa tela?
+
+Resposta do aluno:
+Are you validate this screen behavior?
+
+Forma correta:
+Have you validated this screen's behavior?
+ou
+Did you validate this screen behavior?
+
+Feedback do professor:
+
+Aqui houve mistura de estruturas.
+
+`Are you` precisa de verbo com `-ing`:
+
+- Are you validating...?
+
+Mas a ideia da frase é passado:
+
+- Você já validou...?
+
+Então usamos:
+
+- `Have you validated...`
+  ou
+- `Did you validate...`
+
+---
+
+# Regra importante
+
+## NÃO misture:
+
+- `are/is/am`
+  com
+- verbo normal no infinitivo.
+
+❌ Are you validate
+✅ Are you validating
+✅ Did you validate
+
+---
+
+## Frase 12
+
+Frase original:
+Você encontrou o erro no deploy?
+
+Resposta do aluno:
+Are you find some error in deploy?
+
+Forma correta:
+Did you find any error in the deploy?
+ou
+Did you find the error during deployment?
+
+Feedback do professor:
+
+Problemas:
+
+### 1. Estrutura verbal
+
+❌ Are you find
+✅ Did you find
+
+### 2. some → any
+
+Em perguntas normalmente usamos `any`.
+
+### 3. “in deploy”
+
+Mais natural:
+
+- during deployment
+- in the deployment
+- in the deploy process
+
+---
+
+## Frase 15
+
+Frase original:
+Você verificou se a API está respondendo corretamente?
+
+Resposta do aluno:
+Do you checked if the API are responding correctly?
+
+Forma correta:
+Did you check if the API is responding correctly?
+
+Feedback do professor:
+
+Aqui aconteceu um erro MUITO comum.
+
+Depois de `do/did/does`, o verbo volta para a forma base.
+
+❌ Did you checked
+✅ Did you check
+
+Além disso:
+
+`API` é singular.
+
+✅ The API is responding
+❌ The API are responding
+
+---
+
+# Regra para memorizar
+
+## Passado com DID
+
+Estrutura:
+
+```text
+Did + sujeito + verbo base
+```
+
+Exemplos:
+
+- Did you check?
+- Did he find?
+- Did they update?
+
+NUNCA:
+
+❌ Did you checked
+❌ Did he found
+
+---
+
+## Frase 20
+
+Frase original:
+Ele encontrou a causa do erro em produção.
+
+Resposta do aluno:
+He's finded the error cause in production
+
+Forma correta:
+He found the cause of the error in production.
+
+Feedback do professor:
+
+Aqui temos verbo irregular.
+
+`find` NÃO vira `finded`.
+
+Tabela:
+
+- find
+- found
+- found
+
+---
+
+# Verbos irregulares importantes para TI
+
+| Base  | Passado |
+| ----- | ------- |
+| find  | found   |
+| write | wrote   |
+| build | built   |
+| send  | sent    |
+| run   | ran     |
+| do    | did     |
+
+---
+
+## Frase 29
+
+Frase original:
+Ela documentou a regra de negócio corretamente.
+
+Resposta do aluno:
+She's writed the business rule correctly
+
+Forma correta:
+She documented the business rule correctly.
+ou
+She wrote the business rule correctly.
+
+Feedback do professor:
+
+`writed` não existe.
+
+O correto:
+
+- write
+- wrote
+- written
+
+Além disso:
+
+“documentou” é mais natural com:
+
+- documented
+
+---
+
+# 4. Erro MUITO importante: he/she para objetos
+
+Você repetiu isso várias vezes.
+
+Exemplos:
+
+❌ he saved the data correctly
+❌ she's appeared in the queue
+❌ she still responding
+
+Quando falamos de:
+
+- sistema;
+- API;
+- servidor;
+- tarefa;
+- branch;
+- plugin;
+
+usamos:
+
+# IT
+
+---
+
+## Exemplos corretos
+
+- The system is slow, but it still works.
+- The API is unstable, but it still responds.
+- The branch is ready and it can be sent for review.
+
+---
+
+# Regra prática
+
+## Pessoas
+
+- he
+- she
+
+## Coisas/sistemas/objetos
+
+- it
+
+Mesmo que em português seja:
+
+- “a API”
+- “a branch”
+
+em inglês continua:
+
+✅ it
+
+---
+
+# 5. Correções de vocabulário técnico
+
+| Seu uso   | Mais natural |
+| --------- | ------------ |
+| flux      | flow         |
+| homolog   | staging      |
+| revision  | review       |
+| demand    | task/request |
+| analising | analyzing    |
+| reviewd   | reviewed     |
+| aproved   | approved     |
+
+---
+
+# 6. Sobre “he’s / she’s / they’re”
+
+Você usou muito:
+
+- He's fixed
+- She's reviewed
+- They're validated
+
+Isso parece tentativa de usar present perfect.
+
+Mas para treino básico de trabalho, o mais natural geralmente é:
+
+# passado simples
+
+✅ He fixed
+✅ She reviewed
+✅ They validated
+
+---
+
+# Regra simples para agora
+
+## Use:
+
+### Passado simples
+
+quando a ação terminou.
+
+- He fixed the bug.
+- She reviewed the PR.
+- They approved the change.
+
+---
+
+## Use:
+
+### Present continuous
+
+quando está acontecendo AGORA.
+
+- He is fixing the bug.
+- She is reviewing the PR.
+- They are testing the API.
+
+---
+
+# 7. Sua evolução atual
+
+Você já está em um ponto muito bom para:
+
+- reuniões técnicas;
+- leitura de tickets;
+- conversas simples de equipe;
+- standup;
+- documentação básica.
+
+Seu principal foco agora deve ser:
+
+1. tempos verbais;
+2. verbos irregulares;
+3. diferença entre:
+   - he/she
+   - it
+
+4. perguntas com DID/DO.
+
+---
+
+# 8. Prática curta (sem olhar)
+
+Traduza sozinho:
+
+1. Ele encontrou o bug no deploy.
+2. A API está respondendo corretamente.
+3. Você verificou os logs?
+4. Nós atualizamos a documentação.
+5. O sistema está lento, mas ele continua funcionando.
+
+Tente responder sem consultar o material.
